@@ -1,6 +1,6 @@
 {
   "name": "fulcrum-repo-insights",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Azure DevOps Extension — Repository Insights Hub",
   "scripts": {
     "start": "webpack serve --mode development --env mock",

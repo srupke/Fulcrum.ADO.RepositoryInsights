@@ -1,5 +1,12 @@
 # Fulcrum Repository Insights
 
+[![Security Audit](https://github.com/srupke/Fulcrum.ADO.RepositoryInsights/actions/workflows/security-audit.yml/badge.svg)](https://github.com/srupke/Fulcrum.ADO.RepositoryInsights/actions/workflows/security-audit.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://nodejs.org)
+[![Last Commit](https://img.shields.io/github/last-commit/srupke/Fulcrum.ADO.RepositoryInsights)](https://github.com/srupke/Fulcrum.ADO.RepositoryInsights/commits/main)
+[![Open Issues](https://img.shields.io/github/issues/srupke/Fulcrum.ADO.RepositoryInsights)](https://github.com/srupke/Fulcrum.ADO.RepositoryInsights/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/srupke/Fulcrum.ADO.RepositoryInsights/pulls)
+
 An Azure DevOps extension that adds a **Repo Insights** hub to the Repos section. It shows every repository in the selected project with language breakdown, lines of code, commit and branch metrics, open pull request counts, and up to 10 team-defined custom metadata columns.
 
 ---

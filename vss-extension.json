@@ -2,7 +2,7 @@
   "manifestVersion": 1,
   "id": "fulcrum-repo-insights",
   "publisher": "ScottRupke",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "Fulcrum Repository Insights",
   "description": "Repository overview with GitHub-style language breakdown, LOC metrics, and up to 10 configurable custom metadata columns.",
   "public": true,
